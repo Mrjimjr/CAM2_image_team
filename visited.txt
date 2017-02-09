@@ -1,0 +1,60 @@
+
+474 -- houses -- 1 only one image on 01_07_17
+482 -- thermes marins de saint malo beach -- 6 okay quality and distance but far
+539 -- open block -- 1 appears to be very low quality camera
+571 -- palace -- 3 lights too bright at night to distinguish much
+575 -- north carolina beach -- 4 okay clarity and distance but no people out in winter
+584 -- distillary barrels -- 0 poor location 
+585 -- distillary -- 8 excellent location and clairity of camera but no people on 01_07_17
+592 -- single office -- 1 excellent location and clairity of camera but no person and only one image in initial download...
+593 -- snow field -- 2 okay quality but too high up and looking too far out to get any decent sized person
+606 -- office room -- 9 excellent location and clarity (no workers though in first run)
+609 -- three locations -- 7 possibly good on main location. The other locations are a) okay and b) poor (not the labels are arbitary).
+614 -- outside factory -- 6 fair distance and clear
+615 -- university walkway -- 6 fair distance and somewhat clear
+619 -- road w/ lake background -- 3 far away and night so clarity is unknown...
+628 -- factory floor -- 7 closer and okay clarity
+630 -- "no video" -- not working
+654 -- university's landscape -- 7 far away but very clear
+655 -- school stadium view -- 4 far away and grimy
+656 -- sidewalk -- 5 too dark at night to determine
+659 -- dorm buildings -- 5 okay quality, far away, and few people
+666 -- ??? -- 0
+682 -- broken: only 1 or 2 images
+683 -- broken: only 1 or 2 images
+690 -- broken: only 1 or 2 images
+698 -- broken: only 1 or 2 images
+706 -- toledo zoo -- 4 great quality and potentially close, but unlikely people there
+710 -- shipping harbor -- 3 far away and okay quality
+711 -- urban field -- 3 far away and poor quality
+713 -- city street -- 4 possible close and foggy
+719 -- close-up cam -- 3 very close up, appears to pan across and area. most is out of focus
+731 -- office cam -- 9 very close and high potential for distinct images of people... get durnig some working hours.
+736 -- black screen -- 0 broken camera
+737 -- field/office reflection -- 6 high potential good camera
+744 -- walkway -- 6 good camera but far away and many people
+747 -- workshop -- 7 good camera and placement but questionable number of people
+748 -- skii slopes -- 10 excellent quality, placement, and number of people
+762 -- entry way -- 10 excellent quality, placement, and number of people -- note stopped labelling after 22-55-13 because I've reached over 60 images from a single camera. our aim is diversity.
+782 -- parking lot -- 4 okay quality, place poor, no people
+784 -- landscape -- 0 produced 1 images
+849 -- broken: only 1 or 2 images
+850 -- broken: only 1 or 2 images
+859 -- broken: only 1 or 2 images
+875 -- plane runway -- 2 okay quality, bad placement, no people
+878 -- snowed in building -- 4 okay quality, placement potential, no people
+879 -- hallway -- 3 poor quality, poor placement, no people
+902 -- city landscape -- 0 great camera, bad placement, no possible people (beatiful landscape though :D)
+909 -- inside of plant -- 0 okay camera, bad placement, no possible people
+912 -- courtyard -- 8 very good camera, okay placement, many people
+914 -- intersection + yard -- 4 poor camera, okay placement, no people
+915 -- large courtyar -- 6 okay camera, not good placement, okay people
+918 -- yard + street -- 5 okay camera, okay placement, no people
+919 -- street + yard -- 5 good camera, bad placement, no people
+920 -- computer lab -- 10 okay camera, great placement, people -- note not much variation in position over closer intervals of time
+949 -- broken: only 1 or 2 images
+984 -- indoor seating area -- 6 fuzzy camera, good placement, people potential
+989 -- outdoor grassy area -- 6 okay camera, okay placement, no people
+1013 -- dark area -- 2 dark... potentially nighttime
+1020 -- office -- 7 good camera, good placement, people -- note little variation
+
