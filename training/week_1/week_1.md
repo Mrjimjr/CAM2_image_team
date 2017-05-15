@@ -12,7 +12,7 @@ If you are stuck on any of the material, please email me at gauenk@purdue.edu wi
 ## Tasks
 
 - Complete all assignments in the video summary
-- At a minimum, be sure to install Torch7 and Caffe
+- At a minimum, be sure to install [Torch7](http://torch.ch/) and [Caffe](https://github.com/BVLC/caffe/wiki/Ubuntu-16.04-or-15.10-Installation-Guide)
 
 Answer the following questions:
 1. Give an example of a linear relationship
